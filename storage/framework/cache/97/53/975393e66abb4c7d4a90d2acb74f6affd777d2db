@@ -1,0 +1,32 @@
+1616172010a:1:{s:16:"onepage-text.htm";a:9:{s:8:"fileName";s:16:"onepage-text.htm";s:7:"content";s:602:"title = "One Page Text"
+url = "/onepage-text"
+layout = "default"
+is_hidden = 0
+==
+{% partial 'onepage-text/area' %}
+{% partial 'onepage-slider/about' %}
+{% partial 'onepage-slider/cta' %}
+{% partial 'onepage-slider/service' %}
+{% partial 'index/cta' %}
+{% partial 'onepage-slider/team-skill' %}
+{% partial 'index/counter' %}
+{% partial 'onepage-slider/portfolio' %}
+{% partial 'onepage-slider/team' %}
+{% partial 'onepage-slider/pricing-table' %}
+{% partial 'index/testimonial' %}
+{% partial 'index/blog' %}
+{% partial 'onepage-slider/contact-us' %}
+{% partial 'onepage-slider/map' %}";s:5:"mtime";i:1615799679;s:6:"markup";s:515:"{% partial 'onepage-text/area' %}
+{% partial 'onepage-slider/about' %}
+{% partial 'onepage-slider/cta' %}
+{% partial 'onepage-slider/service' %}
+{% partial 'index/cta' %}
+{% partial 'onepage-slider/team-skill' %}
+{% partial 'index/counter' %}
+{% partial 'onepage-slider/portfolio' %}
+{% partial 'onepage-slider/team' %}
+{% partial 'onepage-slider/pricing-table' %}
+{% partial 'index/testimonial' %}
+{% partial 'index/blog' %}
+{% partial 'onepage-slider/contact-us' %}
+{% partial 'onepage-slider/map' %}";s:4:"code";N;s:5:"title";s:13:"One Page Text";s:3:"url";s:13:"/onepage-text";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

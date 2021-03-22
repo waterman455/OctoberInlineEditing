@@ -1,0 +1,5 @@
+title: Gallerie
+modelClass: Markomweb\Gallerie\Models\Gallerie
+nameFrom: gallerie
+toolbar:
+    buttons: reorder_toolbar

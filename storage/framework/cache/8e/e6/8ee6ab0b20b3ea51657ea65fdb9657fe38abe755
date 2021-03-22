@@ -1,0 +1,8 @@
+1616172010a:1:{s:8:"blog.htm";a:9:{s:8:"fileName";s:8:"blog.htm";s:7:"content";s:128:"title = "Blogs"
+url = "/blog"
+layout = "default"
+is_hidden = 0
+==
+{% partial 'site/sp-header' %}
+{% partial 'blog/post' %}";s:5:"mtime";i:1615799679;s:6:"markup";s:57:"{% partial 'site/sp-header' %}
+{% partial 'blog/post' %}";s:4:"code";N;s:5:"title";s:5:"Blogs";s:3:"url";s:5:"/blog";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

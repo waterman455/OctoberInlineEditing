@@ -1,0 +1,8 @@
+1616172010a:1:{s:15:"single-post.htm";a:9:{s:8:"fileName";s:15:"single-post.htm";s:7:"content";s:148:"title = "Blog Single"
+url = "/single-post"
+layout = "default"
+is_hidden = 0
+==
+{% partial 'site/sp-header' %}
+{% partial 'blog/post-detail' %}";s:5:"mtime";i:1615799679;s:6:"markup";s:64:"{% partial 'site/sp-header' %}
+{% partial 'blog/post-detail' %}";s:4:"code";N;s:5:"title";s:11:"Blog Single";s:3:"url";s:12:"/single-post";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

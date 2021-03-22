@@ -1,0 +1,8 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table markomweb_gallerie_'
+    - builder_table_create_markomweb_gallerie_.php
+1.0.3:
+    - 'Updated table markomweb_gallerie_'
+    - builder_table_update_markomweb_gallerie_.php

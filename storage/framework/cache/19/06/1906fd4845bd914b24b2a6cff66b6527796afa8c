@@ -1,0 +1,11 @@
+1616172011a:1:{s:24:"slider/boutonslider1.htm";a:6:{s:8:"fileName";s:24:"slider/boutonslider1.htm";s:7:"content";s:141:"
+<p>
+<a data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".8" class="btn btn-main"
+href="service.html">Réserver</a>
+</p>";s:5:"mtime";i:1616168846;s:6:"markup";s:139:"<p>
+<a data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".8" class="btn btn-main"
+href="service.html">Réserver</a>
+</p>";s:4:"code";N;s:12:"parsedMarkup";s:139:"<p>
+<a data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".8" class="btn btn-main"
+href="service.html">Réserver</a>
+</p>";}}

@@ -1,0 +1,11 @@
+plugin:
+    name: 'markomweb.gallerie::lang.plugin.name'
+    description: 'markomweb.gallerie::lang.plugin.description'
+    author: markomweb
+    icon: oc-icon-image
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: gallerie
+        url: markomweb/gallerie/gallerie
+        icon: icon-image

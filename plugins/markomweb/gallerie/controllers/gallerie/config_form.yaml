@@ -1,0 +1,10 @@
+name: Gallerie
+form: $/markomweb/gallerie/models/gallerie/fields.yaml
+modelClass: Markomweb\Gallerie\Models\Gallerie
+defaultRedirect: markomweb/gallerie/gallerie
+create:
+    redirect: 'markomweb/gallerie/gallerie/update/:id'
+    redirectClose: markomweb/gallerie/gallerie
+update:
+    redirect: markomweb/gallerie/gallerie
+    redirectClose: markomweb/gallerie/gallerie

@@ -1,0 +1,30 @@
+fields:
+    name:
+        label: 'Titre d''image'
+        span: full
+        type: text
+    description:
+        label: description
+        size: ''
+        span: full
+        type: richeditor
+    image:
+        label: 'image upload'
+        mode: image
+        imageWidth: '100'
+        imageHeight: '100'
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: left
+        type: fileupload
+    image_gallery:
+        label: 'image gallery'
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload

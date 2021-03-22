@@ -1,0 +1,10 @@
+1616172010a:1:{s:8:"team.htm";a:9:{s:8:"fileName";s:8:"team.htm";s:7:"content";s:179:"title = "Our Team"
+url = "/team"
+layout = "default"
+is_hidden = 0
+==
+{% partial 'site/sp-header' %}
+{% partial 'onepage-slider/about' %}
+{% partial 'onepage-slider/team' %}";s:5:"mtime";i:1615799679;s:6:"markup";s:105:"{% partial 'site/sp-header' %}
+{% partial 'onepage-slider/about' %}
+{% partial 'onepage-slider/team' %}";s:4:"code";N;s:5:"title";s:8:"Our Team";s:3:"url";s:5:"/team";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}
