@@ -1,3 +1,9 @@
+# This project presents a demo on using a plugin for Inline Editing with OctobreCMS
+you need first to download this project then you open command acces and execute php artisan october:passwd admin MyNewPasswordHere  so that you ll have a new backend acces with the username: admin and password: MyNewPasswordHere , then importing the .sql to your phpmyadmin and there you go ! feel free to navigate in this project.
+
+
+
+
 # Installation wizard for October
 
 The wizard installation is the recommended way to install October for **non-technical users**. It is simpler than the command-line installation and doesn't require any special skills.
